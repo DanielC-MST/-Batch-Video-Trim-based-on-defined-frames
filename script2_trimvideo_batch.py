@@ -1,6 +1,9 @@
 # Edit：Haodong Chen  Time:2019/12/24 hc373@mst.edu https://scholar.google.com/citations?hl=en&user=WGmYDYwAAAAJ
 '''
-This script can clip an initial video based on the designed start-end frames obtained from the script1
+    This script is designed for the video clip based on the txt file (key frames) obtained from the script 1.
+    Input is the video including more than one gestures, the output will be one-gesture videos
+    Build a new folder and name it as the gesture name.
+    Just change the name_clip as the gesture name, change the video name as real input.
 '''
 
 import cv2
