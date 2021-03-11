@@ -1,6 +1,8 @@
 # -Batch-Video-Trim-based-on-defined-frames
-# Python 3.6-3.8
-# Opencv 4.1.2
+# installation
+Python 3.6-3.8
+Opencv 4.1.2
+# script 1
 The script 1 can let users extract starta-end frames by press the backspace on keyboard by go through the video in the code. Then the key frames will be saved in the txt file.
 As shown below, the left number is current frame, the right number is the number of total frames of this video. 
 
@@ -11,7 +13,7 @@ When push backspace on the keyboard, the current frame will be saved in an txt f
 
 ![image](https://user-images.githubusercontent.com/61817794/110737575-39b2fe80-81f3-11eb-8266-fc16463e6d59.png)
 
-
+# script 2
 The script 2 can trim the initial video into multiple clips (shown as follows) based on the key frames in the txt file.
 
 
