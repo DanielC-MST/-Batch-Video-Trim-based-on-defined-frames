@@ -1,10 +1,12 @@
 # -Batch-Video-Trim-based-on-defined-frames
 The script 1 can let users extract starta-end frames by press the backspace on keyboard by go through the video in the code. Then the key frames will be saved in the txt file.
 As shown below, the left number is current frame, the right number is the number of total frames of this video. 
+
 ![4](https://user-images.githubusercontent.com/61817794/110737186-83e7b000-81f2-11eb-9f41-9c8b3b41c3c1.PNG)
 ![5](https://user-images.githubusercontent.com/61817794/110737195-86e2a080-81f2-11eb-8510-940efaae535d.PNG)
 
 When push backspace on the keyboard, the current frame will be saved in an txt file,'train.txt'. From the first frame, Every two adjacent frames will be a group: 1-2, 3-4, 5-6 ......... Then the txt file will be like as follows:
+
 ![image](https://user-images.githubusercontent.com/61817794/110737575-39b2fe80-81f3-11eb-8266-fc16463e6d59.png)
 
 
